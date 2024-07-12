@@ -1,4 +1,4 @@
-
+// teste
 const enviar = document.querySelector('#enviarButton')
 
 class Cadastro {
